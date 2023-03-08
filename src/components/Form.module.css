@@ -1,0 +1,19 @@
+form {
+    display: grid;
+}
+
+input {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: lightblue;
+}
+
+.error {
+    margin-top: 20px;
+    color: red;
+}
